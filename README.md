@@ -269,12 +269,14 @@ def greet(name):
 
 **Markdown**  
 ```markdown
-![Alt text](https://via.placeholder.com/50 "Image title")
+![image](https://github.com/user-attachments/assets/a27f601f-3510-4111-9a83-b0ab126e8ae8)
+
 ```
 
 **Rendered Output**
 
-![Alt text](https://via.placeholder.com/50 "Image title")  
+![image](https://github.com/user-attachments/assets/fbb31a69-f196-4e63-a524-47ca12428278)
+
 
 ---
 
